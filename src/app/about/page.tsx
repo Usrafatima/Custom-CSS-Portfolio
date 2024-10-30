@@ -46,7 +46,7 @@ export default function About(){
          support, you can focus on your goals while your website remains in excellent condition.
         </p>
         <h1 className='skills'>Skills</h1>
-        <h2 className='using'>Using Now:</h2>
+      
        <Image
         src={html}
         width={100 }  
