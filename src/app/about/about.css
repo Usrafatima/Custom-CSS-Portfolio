@@ -1,0 +1,257 @@
+.main-head {
+    border: 2px solid black;
+    width: 12%;
+    height: 35px;
+    text-align: center;
+ font-weight: bold; 
+    display: flex;
+    align-items: center; 
+    font-size: 2rem;
+    justify-content: center; 
+    position: relative;
+    margin-top: 4%;
+    margin-left: 44%;
+    font-family: arvo sans-serif;
+    
+}
+.main-line{
+   
+    width: 25%;
+    position: relative;
+    margin-left: 38%;
+    color: black;
+}
+.about-para{
+   font-size: 1.3rem;
+    text-align: center;
+    position: relative;
+    margin-top: 2%;
+    font-family: opensans, sans-serif;
+    line-height: 1.6; 
+    padding: 0 15%; 
+}
+.explore{
+    font-size: 2rem;
+    text-align: center;
+    position: relative;
+    margin-top: 1.5%;
+    font-family: arvo sans-serif;
+}
+.design{
+    font-size: 1.6rem;
+    position: relative;
+    margin-left: 15%;
+    margin-top: 3%;
+    font-family: arvo sans-serif;
+}
+.design-para{
+ position: relative;
+ margin-left: 5%;
+ font-family: Roboto sans-serif;
+ font-size: 1.3rem;
+}
+.develop{
+    font-size: 1.6rem;
+    position: relative;
+    margin-left: 66%;
+    margin-top: -10%;
+    font-family: arvo sans-serif;
+}
+.develop-para{
+    position: relative;
+    margin-left: 55%;
+    font-family: Roboto sans-serif;
+    font-size: 1.3rem;
+}
+.maintenence{
+    font-size: 1.6rem;
+    position: relative;
+    text-align: center;
+    margin-top: 3%;
+      font-family: arvo sans-serif;
+}
+.maint-para{
+    text-align: center;
+    font-family: Roboto sans-serif;
+    font-size: 1.3rem;
+   }
+.skills{
+    border: 2px solid black;
+    width: 12%;
+    height: 35px;
+    text-align: center;
+    position: relative;
+    margin: 3% auto 0; /* Center horizontally with top margin */
+    font-weight: bold; /* Make text bold */
+    display: flex;
+    align-items: center; /* Center vertically */
+    justify-content: center; 
+    font-size: 2rem;
+    font-family: arvo sans-serif;
+}
+.using{
+    font-size: 2rem;
+    position: relative;
+    margin-left: 20%;
+    margin-top: 4%;
+}
+.html{
+  position: relative;
+  margin-left: 30%;
+}
+.css{
+    position: relative;
+    margin-left: 40%;
+    margin-top: -5.2%;
+}
+.js{
+    position: relative;
+    margin-left: 50%;
+    margin-top: -6%
+}
+.react{
+    position: relative;
+    margin-left: 60%;
+    margin-top: -5.9%;
+}
+.nextjs{
+    position: relative;
+    margin-left: 70%;
+    margin-top: -5.9%;
+}
+.git{
+    position: relative;
+    margin-left: 30%;
+    margin-top: 4%;
+}
+.figma {
+ 
+  justify-content: center; 
+  align-items: center;
+  position: relative;
+  margin-top: -5%;
+  margin-left: 40%; 
+ 
+}
+
+.learn{
+    font-size: 2rem;
+    position: relative;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.python{
+  position: relative;
+  margin-left: 30%;   
+}
+.container-2 {
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    position: relative;
+    margin-top: 2%;
+    gap: 13px;
+}
+
+.line1, .line2 {
+    width: 4px; 
+    height: 50px; 
+    background-color: black; 
+    border-radius: 2px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); 
+}
+
+.line1 {
+  
+    background-color: #666; 
+}
+
+.line2 {
+   
+    background-color: #666; 
+}
+@media (max-width: 600px) {
+   .main-head{
+    width: 35%;
+    font-size: 1.5rem;
+    position: relative;
+    margin-left: 30%;
+   }
+   .about-para{
+    font-size: 1.2rem;
+   }
+   .explore{
+    font-size: 1.6rem;
+    position: relative;
+    margin-top: 2%; 
+  }
+  .design{
+   
+    position: relative;
+    margin-left: 36%;
+  }
+  .design-para{
+    padding: 2%;
+  }
+  .develop{
+    position: relative;
+    margin-top: 4%;
+    margin-left: 30%;
+  }
+  .develop-para{
+    position: relative;
+    margin-left: 5%;
+    padding: 2%;
+  }
+  .maintenence{
+    display: none;
+  }
+  .maint-para{
+   display: none;
+  }
+  .skills{
+    width: 25%;
+    margin-top: 8%;
+  }
+  .using{
+    text-align: center;
+    margin-left: 8%;
+  }
+  .html{
+ position: relative;
+ margin-left: 40%;
+ margin-top: 4%;
+ width: 22%;
+  }
+  .css{
+    position: relative;
+    margin-top: 6%;
+  }
+  .js{
+    position: relative;
+    margin-top: 6%;
+    margin-left: 36%;
+  }
+  .react{
+    position: relative;
+    margin-top: 6%;
+    margin-left: 38%;
+  }
+  .nextjs{
+    position: relative;
+    margin-top: 6%;
+    margin-left: 38%;
+  }
+  .git{
+    position: relative;
+    margin-top: 8%;
+    margin-left: 38%;
+  }
+  .figma {
+    position: relative;
+    margin-top: 8%; 
+    margin-left: 42%; 
+    width:16%; 
+    justify-content: center;
+   } 
+}
