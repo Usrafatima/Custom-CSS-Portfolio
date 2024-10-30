@@ -89,12 +89,7 @@
     font-size: 2rem;
     font-family: arvo sans-serif;
 }
-.using{
-    font-size: 2rem;
-    position: relative;
-    margin-left: 20%;
-    margin-top: 4%;
-}
+
 .html{
   position: relative;
   margin-left: 30%;
@@ -213,10 +208,7 @@
     width: 25%;
     margin-top: 8%;
   }
-  .using{
-    text-align: center;
-    margin-left: 8%;
-  }
+
   .html{
  position: relative;
  margin-left: 40%;
