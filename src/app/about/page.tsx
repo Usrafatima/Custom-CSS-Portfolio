@@ -8,7 +8,7 @@ import react from '../public/react.png';
 import nextjs from '../public/nextjs.png';
 import git from '../public/git.png';
 import figma from '../public/figma.png';
-import python from '../public/python.png';
+
 
 
 export default function About(){
