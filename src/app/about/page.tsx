@@ -15,10 +15,12 @@ export default function About(){
   return(
     <div>
     <h1 className="main-head">ABOUT ME</h1>
-    <p className="about-para">Hi! I am Yusra, a passionate front-end developer with a focus on creating 
-        engaging and user-friendly web experiences. Currently pursuing a Bachelor's degree in Statistics with Finance, I love combining analytical skills with creative design. I am always eager to learn new technologies and enhance my coding skills, and I am currently exploring tools like Figma and Tailwind CSS. My portfolio showcases a variety of projects that highlight my abilities and dedication to delivering high-quality work. When I am not coding,
-         I enjoy brainstorming innovative ideas and staying updated on the latest trends in web development.
-     </p>
+    <p className="about-para"><p className="about-para">Hi! I am Yusra, a passionate front-end developer with a focus on creating 
+    engaging and user-friendly web experiences. Currently pursuing a Bachelors degree in Statistics with Finance, I love combining analytical skills with creative design. I am always eager to learn new technologies and enhance my coding skills, and I am currently exploring tools like Figma and Tailwind CSS. My portfolio showcases a variety of projects that highlight my abilities and dedication to delivering high-quality work. When I am not coding,
+    I enjoy brainstorming innovative ideas and staying updated on the latest trends in web development.
+</p>
+
+  
  
 
 
