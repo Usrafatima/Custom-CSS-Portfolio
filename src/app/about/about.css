@@ -129,16 +129,7 @@
  
 }
 
-.learn{
-    font-size: 2rem;
-    position: relative;
-    margin-left: 20%;
-    margin-top: 10%;
-}
-.python{
-  position: relative;
-  margin-left: 30%;   
-}
+
 .container-2 {
     display: flex;
     align-items: center; 
